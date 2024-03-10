@@ -1,4 +1,4 @@
-### Oi! Eu sou o Pedro Ventura. 👋
+### Oi! Eu sou o João. 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaPe-Ventura&theme=dracula)](https://github.com/JotaPe-Ventura/)
 
