@@ -1,6 +1,6 @@
 ### Oi! Eu sou o João. 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaPe404Ventura&theme=dracula)](https://github.com/JotaPe-Ventura/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pixel-DefaultBR&theme=dracula)](https://github.com/JotaPe-Ventura/)
 
 ## Tecnologias que uso:
 
