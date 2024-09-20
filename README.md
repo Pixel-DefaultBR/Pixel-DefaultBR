@@ -23,12 +23,15 @@
 
 ### Um pocuos sobre  mim: 
 
-👋 Eu sou apaixonado pelo mundo da tecnologia desde muito jovem! 💻 Desde que me entendo por gente, sempre estive fascinado pelas inúmeras possibilidades que a tecnologia oferece, e essa paixão só cresceu com o tempo. 🚀
+👋 Sou apaixonado por tecnologia desde muito jovem! 💻 Sempre fui fascinado pelas inúmeras possibilidades que a tecnologia oferece, e essa paixão só cresceu ao longo dos anos. 🚀
 
-🔒 Quando conheci a área da cibersegurança, meu interesse pela tecnologia tomou uma nova dimensão. A ideia de proteger sistemas e redes contra ameaças cibernéticas me intrigou profundamente e me motivou a explorar esse campo tão desafiador e vital. 🔐
+🔒 Quando descobri a área de cibersegurança, meu interesse evoluiu para um nível completamente novo. A ideia de proteger sistemas e redes contra ameaças cibernéticas me cativou profundamente, e desde então venho explorando este campo desafiador e essencial. 🔐
 
-🎯 Hoje, estou comprometido em aprender e crescer continuamente na área da cibersegurança, buscando conhecimento em técnicas de hacking ético, análise de vulnerabilidades e práticas de segurança da informação. 💼 Minha meta é contribuir para um ambiente digital mais seguro e protegido para todos. 🛡️
+🎯 Atualmente, estou focado em aprender continuamente sobre cibersegurança, com ênfase em hacking ético, análise de vulnerabilidades e práticas de segurança da informação. Meu objetivo é contribuir para tornar o ambiente digital mais seguro e protegido. 🛡️
 
-💡 Além disso, estou sempre aberto a novas oportunidades de aprendizado e colaboração, pois acredito que o compartilhamento de conhecimento e a colaboração são essenciais para o avanço da segurança cibernética. 🤝
+🔒 Ao longo da minha jornada, tive a oportunidade de encontrar e reportar bugs de segurança para empresas como Itaú, Banco Central e Pichau. Hoje, estou no Hall da Fama de grandes corporações, como NASA, SONY e Disney, por minhas contribuições na descoberta de vulnerabilidades. 🔒
 
-🌟 Estou empolgado com o que o futuro reserva nesta jornada emocionante e desafiadora na área da cibersegurança, e estou determinado a fazer a diferença! 🚀🔒
+💡 Acredito firmemente na importância da colaboração e do compartilhamento de conhecimento, essenciais para o avanço da segurança cibernética. Por isso, estou sempre aberto a novas oportunidades de aprendizado e troca de experiências. 🤝
+
+🌟 Estou empolgado com o futuro da cibersegurança e determinado a causar um impacto positivo nesse campo! 🚀🔒
+
