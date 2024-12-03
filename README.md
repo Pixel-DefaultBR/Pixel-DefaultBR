@@ -1,5 +1,18 @@
 ### Oi! Eu sou o João. 👋
 
+👋 Sou apaixonado por tecnologia desde muito jovem! 💻 Sempre fui fascinado pelas inúmeras possibilidades que a tecnologia oferece, e essa paixão só cresceu ao longo dos anos. 🚀
+
+🔒 Quando descobri a área de cibersegurança, meu interesse evoluiu para um nível completamente novo. A ideia de proteger sistemas e redes contra ameaças cibernéticas me cativou profundamente, e desde então venho explorando este campo desafiador e essencial. 🔐
+
+🎯 Atualmente, estou focado em aprender continuamente sobre cibersegurança, com ênfase em hacking ético, análise de vulnerabilidades e práticas de segurança da informação. Meu objetivo é contribuir para tornar o ambiente digital mais seguro e protegido. 🛡️
+
+🔒 Ao longo da minha jornada, tive a oportunidade de encontrar e reportar bugs de segurança para empresas como Itaú, Banco Central e Pichau. Hoje, estou no Hall da Fama de grandes corporações, como NASA, SONY e Disney, por minhas contribuições na descoberta de vulnerabilidades. 🔒
+
+💡 Acredito firmemente na importância da colaboração e do compartilhamento de conhecimento, essenciais para o avanço da segurança cibernética. Por isso, estou sempre aberto a novas oportunidades de aprendizado e troca de experiências. 🤝
+
+🌟 Estou empolgado com o futuro da cibersegurança e determinado a causar um impacto positivo nesse campo! 🚀🔒
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pixel-DefaultBR&theme=dracula)](https://github.com/JotaPe-Ventura/)
 
 ## Tecnologias que uso:
@@ -21,17 +34,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Um pocuos sobre  mim: 
-
-👋 Sou apaixonado por tecnologia desde muito jovem! 💻 Sempre fui fascinado pelas inúmeras possibilidades que a tecnologia oferece, e essa paixão só cresceu ao longo dos anos. 🚀
-
-🔒 Quando descobri a área de cibersegurança, meu interesse evoluiu para um nível completamente novo. A ideia de proteger sistemas e redes contra ameaças cibernéticas me cativou profundamente, e desde então venho explorando este campo desafiador e essencial. 🔐
-
-🎯 Atualmente, estou focado em aprender continuamente sobre cibersegurança, com ênfase em hacking ético, análise de vulnerabilidades e práticas de segurança da informação. Meu objetivo é contribuir para tornar o ambiente digital mais seguro e protegido. 🛡️
-
-🔒 Ao longo da minha jornada, tive a oportunidade de encontrar e reportar bugs de segurança para empresas como Itaú, Banco Central e Pichau. Hoje, estou no Hall da Fama de grandes corporações, como NASA, SONY e Disney, por minhas contribuições na descoberta de vulnerabilidades. 🔒
-
-💡 Acredito firmemente na importância da colaboração e do compartilhamento de conhecimento, essenciais para o avanço da segurança cibernética. Por isso, estou sempre aberto a novas oportunidades de aprendizado e troca de experiências. 🤝
-
-🌟 Estou empolgado com o futuro da cibersegurança e determinado a causar um impacto positivo nesse campo! 🚀🔒
 
